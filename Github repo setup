@@ -8,7 +8,7 @@ hospital-bed-availability-system
 │   ├── src
 │   ├── pom.xml
 │   └── README.md
-│
+│  
 ├── frontend
 │   ├── src
 │   ├── public
