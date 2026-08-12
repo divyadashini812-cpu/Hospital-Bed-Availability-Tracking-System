@@ -19,7 +19,7 @@ mkdir hospital-bed-availability-system
 cd hospital-bed-availability-system
 Step 5 — Open in VS Code
 code .
-8. Connect VS Code to GitHub
+ Connect VS Code to GitHub:
 After creating the GitHub repository:
 git init
 Then:
@@ -32,7 +32,7 @@ Then:
 git branch -M main
 git push -u origin main
 After this, your project will be available in your GitHub repository.
-9. Recommended Development Order
+Recommended Development Order:
 Don't try to build everything at once.
 Phase 1 — Planning
 Problem Statement
@@ -81,7 +81,7 @@ GET    /api/beds
 GET    /api/beds/available
 PUT    /api/beds/{id}
 DELETE /api/beds/{id}
-10. Final Capstone Structure
+Final Capstone Structure:
 Your complete project can be presented as:
        HOSPITAL BED AVAILABILITY
             TRACKING SYSTEM
